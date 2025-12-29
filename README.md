@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on<br>Exploratory projects using Python and C++, focusing on simulations, algorithms, and computational biology concepts.<br>👯 I’m looking to collaborate on<br>Beginner-friendly Python or C++ projects, simulations, CLI tools, and learning-oriented open-source work.<br>🤝 I’m looking for help with<br>Writing cleaner Python/C++ code, improving project structure, and better documentation practices.<br>🌱 I’m currently learning<br>Python and C++, data structures, problem-solving through code, and basic computational biology ideas.<br>💬 Ask me about<br>Getting started with Python or C++, learning programming through projects, or using Linux/Termux for development.<br>⚡ Fun fact<br>I’m preparing for entrance exam while learning Python and C++ and building projects entirely from a mobile setup.
+🔭 I’m currently working on<br>Exploratory projects using Python and C++, focusing on simulations, algorithms, and computational biology concepts.<br>👯 I’m looking to collaborate on<br>Beginner-friendly Python or C++ projects, simulations, CLI tools, and learning-oriented open-source work.<br>🤝 I’m looking for help with<br>Writing cleaner Python/C++ code, improving project structure, and better documentation practices.<br>🌱 I’m currently learning<br>Python and C++, data structures, problem-solving through code, and basic computational biology ideas.<br>💬 Ask me about<br>Getting started with Python or C++, learning programming through projects, or using Linux/Termux for development.<br>⚡ Fun fact<br>I’m preparing for a competitive entrance exam while learning Python and C++ and building projects entirely from a mobile-based development setup.
 
 
 ## 🌐 Socials:
@@ -14,7 +14,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=cmessin02-cmyk&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cmessin02-cmyk&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Coding Philosophy
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
