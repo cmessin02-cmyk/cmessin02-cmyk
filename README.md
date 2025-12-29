@@ -24,10 +24,17 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=cmessin02-cmyk&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cmessin02-cmyk&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🧠 How I Learn
+I learn by building small projects, breaking things, reading documentation, and improving incrementally rather than chasing perfection.
+
 ### ✍️ Coding Philosophy
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
+## 🎧 Beyond Code
+Interested in science, technology, design, and learning how complex systems work.
 ---
 [![](https://visitcount.itsvg.in/api?id=cmessin02-cmyk&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
