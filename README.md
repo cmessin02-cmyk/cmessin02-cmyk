@@ -9,14 +9,14 @@ My long-term horizon is locked onto the intersection of Quantum Biology, Machine
 ---
 
 ### 🧬 What I'm Up To
-* 🎓 **Incoming B.Tech Biotechnology Student** (Starting August 2026)
-* 🧠 **Currently learning:** Advanced Linear Algebra, Python for Bioinformatics, and Deep Learning fundamentals.
-* 🚀 **Goal:** Building a solid foundation in clean code and structural biology to prepare for frontier simulation research.
+* 🎓 **B.Tech Biotechnology Student** (2026-2030)
+* 🧠 **Currently learning:** Mathematical Foundation for Computer science,Linear Algebra, Python , C  and Deep Learning fundamentals.
+* **Goal:** Building a solid foundation in clean code and structural biology to prepare for frontier simulation research.
 
 ### 🛠️ Core Toolset & Interests
 * **Domains:** Computational Biology, Machine Learning, Quantum Information, Bioprocess Engineering.
 * **Languages & Tools:** Python, Bash, Git & GitHub.
 
 ### 🌐 Connect with Me
-* [💼 LinkedIn](https://www.linkedin.com/in/sounak-chatterjee-21a717343?utm_source=share_via&utm_content=profile&utm_medium=member_android )
-* [📧 Email](mailto: csounak02@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/sounak-chatterjee-21a717343?utm_source=share_via&utm_content=profile&utm_medium=member_android )
+* [Email](mailto: csounak02@gmail.com)
